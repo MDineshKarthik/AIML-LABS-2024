@@ -7,4 +7,5 @@
 [lab6](https://github.com/MDineshKarthik/AIML-LABS-2024/blob/main/Lab06__AIML.ipynb)    
 [lab7](https://github.com/MDineshKarthik/AIML-LABS-2024/blob/main/Lab__07.ipynb)  
 [lab8](https://github.com/MDineshKarthik/AIML-LABS-2024/blob/main/Lab08__AIML.ipynb)  
-[lab9](https://github.com/MDineshKarthik/AIML-LABS-2024/blob/main/Lab09_AIML.ipynb)
+[lab9](https://github.com/MDineshKarthik/AIML-LABS-2024/blob/main/Lab09_AIML.ipynb)  
+[lab10](https://github.com/MDineshKarthik/AIML-LABS-2024/blob/main/Lab10_AIML.ipynb)
